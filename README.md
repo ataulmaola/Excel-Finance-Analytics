@@ -65,6 +65,7 @@ This dashboard highlights fiscal year financial performance from 2019 to 2021, w
 ## Filters Available
 
 - Region
+- Division
 - Market
 - Customer
 
@@ -89,7 +90,8 @@ This dashboard breaks down financial performance by country/market over fiscal y
 ## Filters Available
 
 - Region  
-- Division  
+- Division
+- Customer
 
 ## Purpose
 
@@ -100,7 +102,6 @@ This report supports geographic performance analysis and helps tailor strategies
 
 ### 📌 04 GM by Quarter – Subzone-Level Analysis
 
-# Dashboard 4: GM by Quarter – Subzone-Level Analysis
 
 This dashboard visualizes the GM (Gross Margin ) percentage trends across each quarter of FY 2021 for various subzones within AtliQ Hardware's global operations.
 
