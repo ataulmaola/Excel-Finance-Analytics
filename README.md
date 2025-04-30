@@ -114,7 +114,7 @@ All values are in **USD**.
 - Data corresponds to FY 2021.
 - All amounts are in millions and rounded for readability.
 
-![ P&L Summary by Market ](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/88e302fa4b494fbd3198fe6bccdd5820ae7f99f3/3.png)
+![ P&L Summary by Market ] (https://github.com/ataulmaola/Excel-Finance-Analytics/blob/88e302fa4b494fbd3198fe6bccdd5820ae7f99f3/3.png)
 
 
 ### 📌 03 GM by Quarter – Subzone-Level Analysis
