@@ -78,37 +78,23 @@ This report is useful for strategic planning and historical benchmarking, enabli
 
 ### 📌 03 P&L Summary by Market - AtliQ Hardware
 
-This dashboard highlights country-wise financial performance of AtliQ Hardware for FY 2021.
+This dashboard breaks down financial performance by country/market over fiscal years 2019–2021, providing a geographical perspective on profitability.
 
+## Key Insights
 
-## 🏳️ Market-Wise P&L (FY 2021)
+- Analyzes net sales and P&L components for each country.
+- Includes 2021 vs 2020 comparative metrics for revenue and growth.
+- Assists in identifying high-performing and underperforming markets.
 
-All values are in **USD**.
+## Filters Available
 
-| Market        | Net Sales | COGS     | Gross Margin | GM %   |
-|---------------|-----------|----------|---------------|--------|
-| Australia     | 45.14M    | 29.92M   | 15.22M        | 33.70% |
-| Bangladesh    | 25.53M    | 17.19M   | 8.34M         | 32.70% |
-| China         | 49.34M    | 29.54M   | 19.80M        | 40.13% |
-| Germany       | 54.48M    | 34.56M   | 19.92M        | 36.56% |
-| India         | 141.48M   | 92.92M   | 48.56M        | 34.31% |
-| Indonesia     | 30.48M    | 19.20M   | 11.28M        | 37.00% |
-| Japan         | 13.53M    | 8.47M    | 5.06M         | 37.38% |
-| Malaysia      | 30.45M    | 19.89M   | 10.56M        | 34.68% |
-| Singapore     | 29.59M    | 18.80M   | 10.79M        | 36.45% |
-| South Korea   | 13.50M    | 8.25M    | 5.25M         | 38.89% |
-| USA           | 100.40M   | 59.17M   | 41.23M        | 41.08% |
+- Region  
+- Division  
 
-**Filters Applied:**  
-- Region: All  
-- Division: All  
-- Customer: All  
+## Purpose
 
+This report supports geographic performance analysis and helps tailor strategies to market-specific opportunities or challenges.
 
-## 📝 Notes
-- "GM %" = Gross Margin Percentage.
-- Data corresponds to FY 2021.
-- All amounts are in millions and rounded for readability.
 
 ![P&L Report by Fiscal Year and Months](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/8d05816cccad5316897a6477d4bcf5c62232113d/3.png)
 
