@@ -109,7 +109,6 @@ All values are in **USD**.
 - Division: All  
 - Customer: All  
 
----
 
 ## 📝 Notes
 - "GM %" = Gross Margin Percentage.
@@ -117,6 +116,30 @@ All values are in **USD**.
 - All amounts are in millions and rounded for readability.
 
 ![ P&L Summary by Market ](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/88e302fa4b494fbd3198fe6bccdd5820ae7f99f3/3.png)
+
+
+### 📌 03 GM by Quarter – Subzone-Level Analysis
+
+# Dashboard 4: GM by Quarter – Subzone-Level Analysis
+
+This dashboard visualizes the GM (Gross Margin ) percentage trends across each quarter of FY 2021 for various subzones within AtliQ Hardware's global operations.
+
+## Key Insights
+
+- Each subzone's GM performance is tracked for Q1, Q2, Q3, and Q4.
+- It enables performance benchmarking between subzones across time.
+- Aids in identifying seasonal or regional profitability fluctuations.
+- Useful for financial planning and zone-specific strategy development.
+
+## Filters Available
+
+- Fiscal Year(FY)  
+
+## Purpose
+
+This view is essential for evaluating profitability dynamics at a granular regional level. It helps stakeholders understand which subzones consistently maintain healthy margins and which need attention.
+
+![ GM by Quarter ](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/1343c141fe10a864ee0a7ba5ee9fc3fde875a53e/4.png)
 
 ## 📬 Connect with Me
 
