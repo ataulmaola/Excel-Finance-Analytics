@@ -29,53 +29,49 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 
 ### 📌 01 – P&L Report by Fiscal Year and Months
 
-This report presents a detailed Profit & Loss (P&L) view for the fiscal years **2019** and **2020**, broken down by months and quarters.
+This dashboard presents a comprehensive overview of AtliQ Hardware’s financial performance by fiscal year, further broken down by individual months.
 
-#### 🔍 Key Metrics Displayed:
-- **Net Sales** (in millions USD)  
-- **COGS** (Cost of Goods Sold)  
-- **Gross Margin (USD)**  
-- **Gross Margin Percentage (GM %)**
+## Key Insights
 
-#### 🎯 Features:
-- Time series comparison across quarters (Q1 to Q4)  
-- **Filters applied**:  
+- Tracks major P&L components (e.g., Revenue, COGS, Gross Margin, OPEX) across time.
+- Helps identify seasonal trends and monthly fluctuations within fiscal years.
+- Enables stakeholders to evaluate year-over-year growth and monthly operational efficiency.
+
+## Filters Available
+
   - Region  
   - Division  
   - Market  
   - Customer  
-  - Fiscal Year  
-- Color-coded conditional formatting for better visual interpretation of margin performance  
-- Grand Totals included at the right for each metric  
-- Segregated into Pivot Table structure — note that "21 vs 20" metrics are excluded from this specific pivot
+  - Fiscal Year 
+
+## Purpose
+
+This view offers a foundational understanding of the company’s financial structure over time and serves as a base for deeper performance evaluations.
 
 
 ![P&L Report by Fiscal Year and Months](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/140f3d324d012c3347e85f2d2282d74cdcbdda3d/1.png)
 
 ### 📌 02 –  P&L Summary by Division - AtliQ Hardware
 
-This section summarizes the financial performance of AtliQ Hardware across its main product divisions.
+This dashboard highlights fiscal year financial performance from 2019 to 2021, with a specific focus on the year-over-year change from 2020 to 2021.
 
-## 🧩 Division-Wise P&L (FY 2021)
+## Key Insights
 
-All values are in **USD**.
+- Shows side-by-side financial metrics for all three years.
+- Includes absolute and percentage difference between 2021 and 2020.
+- Helps gauge recovery or decline post-pandemic or in response to strategic shifts.
 
-| Division           | Net Sales | COGS     | Gross Margin | GM %   |
-|--------------------|-----------|----------|---------------|--------|
-| Audio Equipment    | 99.78M    | 60.48M   | 39.30M        | 39.37% |
-| Home Appliances    | 103.77M   | 70.87M   | 32.90M        | 31.70% |
-| Phone              | 395.34M   | 249.36M  | 145.98M       | 36.92% |
+## Filters Available
 
-**Filters Applied:**  
-- Region: All  
-- Market: All  
-- Customer: All  
+- Region
+- Market
+- Customer
 
+## Purpose
 
-## 📝 Notes
-- "GM %" = Gross Margin as a percentage of Net Sales.
-- FY 2021 data shown for all divisions.
-- Data is rounded to two decimal places and values are in millions.
+This report is useful for strategic planning and historical benchmarking, enabling teams to evaluate growth or decline in key financial indicators.
+
 
 ![ P&L Summary by Division ](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/77dd11ecaf9aabf54cb4b06b997b9515b0933c93/2.png)
 
