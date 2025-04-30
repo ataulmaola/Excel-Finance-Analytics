@@ -25,7 +25,6 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 | Power Pivot        | Data modeling and managing relationships     |
 | DAX (Data Analysis Expressions) | Calculations and KPIs         |
 | PivotTables & Charts | Visualization of metrics and trends       |
-| Slicers            | Interactive filtering for dynamic reports    |
 
 
 ### 📌 01 – P&L Report by Fiscal Year and Months
