@@ -57,8 +57,6 @@ This report presents a detailed Profit & Loss (P&L) view for the fiscal years **
 
 This section summarizes the financial performance of AtliQ Hardware across its main product divisions.
 
----
-
 ## 🧩 Division-Wise P&L (FY 2021)
 
 All values are in **USD**.
@@ -74,13 +72,13 @@ All values are in **USD**.
 - Market: All  
 - Customer: All  
 
----
 
 ## 📝 Notes
 - "GM %" = Gross Margin as a percentage of Net Sales.
 - FY 2021 data shown for all divisions.
 - Data is rounded to two decimal places and values are in millions.
 
+![ P&L Summary by Division ](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/77dd11ecaf9aabf54cb4b06b997b9515b0933c93/2.png)
 
 ## 📬 Connect with Me
 
