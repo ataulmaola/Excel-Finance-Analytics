@@ -28,15 +28,30 @@ The goal is to extract meaningful business insights, track KPIs, and support str
 | Slicers            | Interactive filtering for dynamic reports    |
 
 
-### 01. Customer Performance Report
-- **Filters Added**: Region, Market (Country), Division
-- **Report Content**: Shows **Fiscal Year-wise Net Sales** from **2019 to 2021**
-- Includes a calculated column: **"21 VS 20"** to compare sales growth between 2020 and 2021
-- Built using **PivotTables**, **Slicers**, and **Power Pivot model**
-- Useful for evaluating sales trends across geography and organizational structure
+### 📌 01 – P&L Report by Fiscal Year and Months
 
-![Customer Performance Report](https://github.com/ataulmaola/Excel-Analytics/blob/428ba8a29bbf71f810291756c1eef122f6443fee/01.png)
+This report presents a detailed Profit & Loss (P&L) view for the fiscal years **2019** and **2020**, broken down by months and quarters.
 
+#### 🔍 Key Metrics Displayed:
+- **Net Sales** (in millions USD)  
+- **COGS** (Cost of Goods Sold)  
+- **Gross Margin (USD)**  
+- **Gross Margin Percentage (GM %)**
+
+#### 🎯 Features:
+- Time series comparison across quarters (Q1 to Q4)  
+- **Filters applied**:  
+  - Region  
+  - Division  
+  - Market  
+  - Customer  
+  - Fiscal Year  
+- Color-coded conditional formatting for better visual interpretation of margin performance  
+- Grand Totals included at the right for each metric  
+- Segregated into Pivot Table structure — note that "21 vs 20" metrics are excluded from this specific pivot
+
+
+![P&L Report by Fiscal Year and Months](https://github.com/ataulmaola/Excel-Finance-Analytics/blob/140f3d324d012c3347e85f2d2282d74cdcbdda3d/1.png)
 
 
 ### 02. Market Performance Report vs Target
